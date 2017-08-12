@@ -4,7 +4,8 @@
     "build": "backpack build"
   },
   "dependencies": {
-    "backpack-core": "^0.4.2"
+    "backpack-core": "^0.4.2",
+    "max4node": "^0.1.2"
   },
   "devDependencies": {
     "babel-preset-stage-0": "^6.24.1"
