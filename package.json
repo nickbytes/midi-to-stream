@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "backpack",
+    "build": "backpack build"
+  },
+  "dependencies": {
+    "backpack-core": "^0.4.2"
+  },
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
